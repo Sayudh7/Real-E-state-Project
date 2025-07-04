@@ -1,0 +1,65 @@
+-------------------------Land Details-------------------------------
+Owner's Name                                       : Ram Bahadur
+Property Address                                   : Kathmandu-10, Nepal
+Area of the Property                               : 150.5 sq.m 
+Kitta Number                                       : 1234
+Does the land have access to an electricity line?  : Yes
+Does the land have access to a water pipeline?     : Yes
+Does the land have access to a sewage pipeline?    : No
+Land Category                                      : Residential
+Landmark                                           : Near Pashupati Temple
+Road Access                                        : 20 ft blacktopped
+Selling Price                                      : 5000000
+--------------------------------------------------------------------
+-------------------------Land Details-------------------------------
+Owner's Name                                       : Raj
+Property Address                                   : Balkot, Bhaktapur
+Area of the Property                               : 572.34 sq.m 
+Kitta Number                                       : 1234-90op
+Does the land have access to an electricity line?  : y
+Does the land have access to a water pipeline?     : y
+Does the land have access to a sewage pipeline?    : y
+land category                                      : B
+landmark                                           : Police Station
+Road access                                        : Urban Road
+selling price                                      : 250000000
+--------------------------------------------------------------------
+-------------------------Land Details-------------------------------
+Owner's Name                                       : Rajwol Shrestha
+Property Address                                   : Balkot,Bhaktapur
+Area of the Property                               : 545.3 sq.m 
+Kitta Number                                       : 12345-op
+Does the land have access to an electricity line?  : y
+Does the land have access to a water pipeline?     : y
+Does the land have access to a sewage pipeline?    : y
+land category                                      : B
+landmark                                           : School 400m away
+Road access                                        : Highway
+selling price                                      : 250000000
+--------------------------------------------------------------------
+-------------------------Land Details-------------------------------
+Owner's Name                                       : sp
+Property Address                                   : nepla
+Area of the Property                               : 2 sq.m 
+Kitta Number                                       : 1234
+Does the land have access to an electricity line?  : y
+Does the land have access to a water pipeline?     : y
+Does the land have access to a sewage pipeline?    : y
+land category                                      : B
+landmark                                           : hospital
+Road access                                        : Urban road
+selling price                                      : 2
+--------------------------------------------------------------------
+-------------------------Land Details-------------------------------
+Owner's Name                                       : Sayudh Pangeni
+Property Address                                   : Lokanthali,Bhaktapur
+Area of the Property                               : 5504.8 sq.m 
+Kitta Number                                       : 123-678-hgh
+Does the land have access to an electricity line?  : y
+Does the land have access to a water pipeline?     : y
+Does the land have access to a sewage pipeline?    : y
+land category                                      : A
+landmark                                           : Hospital
+Road access                                        : Highway
+selling price                                      : 2
+--------------------------------------------------------------------
